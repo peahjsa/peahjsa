@@ -1,8 +1,8 @@
-# <h1 align="center">⚡ Digital Void ⚡</h1>
+# <h1 align="center"> ME </h1>
 
 ### About Me
-* 🎨 **Vibe:** Trippy design, procedural fractals, and chaotic visual art.
-* 🛠️ **Tools:** Paint.NET (loaded with every plugin known to man).
-* 👁️ **Status:** Pixel-pushing and breaking visual standards.
+*  **Vibe:** Trippy design, procedural fractals, and chaotic visual art.
+*  **Tools:** Paint.NET (loaded with every plugin known to man).
+*  **Status:** Pixel-pushing and breaking visual standards.
 
 ---
